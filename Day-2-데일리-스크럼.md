@@ -11,7 +11,7 @@
     - [스프린트 회의록](https://github.com/boostcampwm-2021/iOS08-WithBuddy/wiki/%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B8-%ED%9A%8C%EC%9D%98%EB%A1%9D)
     - [회고록](https://github.com/boostcampwm-2021/iOS08-WithBuddy/wiki/%ED%9A%8C%EA%B3%A0%EB%A1%9D)
 
-</br>
+<br/>
 
 ## 🎯 오늘 할 일
 
@@ -23,7 +23,7 @@
 - [x] 위키 홈 구성하기
 - [ ] Readme 작성
 
-</br>
+<br/>
 
 ## 💡 공유할 이슈
 
