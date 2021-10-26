@@ -1,6 +1,6 @@
-## 🙌🏻 branch 전략
+<!--## 🙌🏻 branch 전략
 
-- rebase merge
+- rebase merge-->
 
 </br>
 
