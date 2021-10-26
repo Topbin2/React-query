@@ -1,3 +1,22 @@
+## 👨‍👩‍👧‍👦 팀 소개
+
+launchScreen은 애플리케이션이 구동되기 위해 준비하는 시간을 채워주는 없어서는 안될 화면입니다. 
+점심식사 시간도 사람이 살아가기 위한 에너지를 채워주는 없어서는 안될 시간입니다.
+
+<br/>
+
+저희는 이러한 launchScreen 과 lunch를 합친 합성어인 lunchScreen 을 팀명으로 짓게 되었습니다. 
+팀명과 같이 사람들에게 꼭 필요한 애플리케이션을 만들고자 합니다!! 💪
+
+<br/>
+
+|S005 김두연|S020 박인우|S021 박정아|S036 이나정|
+|:-:|:-:|:-:|:-:|
+|<img src="https://avatars.githubusercontent.com/u/63900674?s=400&v=4" width=100>|<img src="https://avatars.githubusercontent.com/u/70463738?v=4" width=100>|<img src="https://avatars.githubusercontent.com/u/28800101?v=4" width=100>|<img src="https://avatars.githubusercontent.com/u/55748244?v=4" width=100>|
+|[duyeonnn](https://github.com/duyeonnn)|[inuinseoul](https://github.com/inuinseoul)| [co3oing](https://github.com/co3oing) |[dailynj](https://github.com/dailynj)|
+
+<br/>
+
 ## 🔥 기획서 및 백로그
 
 - [기획서](https://github.com/boostcampwm-2021/iOS08-WithBuddy/wiki/%EC%9C%84%EB%93%9C%EB%B2%84%EB%94%94-%EA%B8%B0%ED%9A%8D%EC%84%9C)
