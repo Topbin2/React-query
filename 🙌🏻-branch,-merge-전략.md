@@ -13,10 +13,14 @@
 
  <img src="https://i.imgur.com/o1xcUmX.png" width=550>
 
+<br/>
+
  ## merge
  
 - rebase & merge
 - 본인 PR 은 최소 2명에게 리뷰받은 후 본인이 merge
+
+<br/>
 
  ## issue/PR/commit 단위
 
