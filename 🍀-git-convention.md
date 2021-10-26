@@ -1,9 +1,3 @@
-<!--## 🙌🏻 branch 전략
-
-- rebase merge-->
-
-</br>
-
 ## ⚒ commit message
 
 ``` terminal=
