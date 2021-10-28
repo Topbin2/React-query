@@ -12,6 +12,7 @@
 - [git convention](https://github.com/boostcampwm-2021/iOS08-WithBuddy/wiki/%F0%9F%8D%80-git-convention)
 - [branch, merge 전략](https://github.com/boostcampwm-2021/iOS08-WithBuddy/wiki/%F0%9F%99%8C%F0%9F%8F%BB-branch,-merge-%EC%A0%84%EB%9E%B5)
 - [프로젝트 구조 및 계획](https://github.com/boostcampwm-2021/iOS08-WithBuddy/wiki/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B5%AC%EC%A1%B0-%EB%B0%8F-%EA%B3%84%ED%9A%8D)
+- [코드 스타일 및 컨벤션](https://github.com/boostcampwm-2021/iOS08-WithBuddy/wiki/%EC%BD%94%EB%93%9C-%EC%8A%A4%ED%83%80%EC%9D%BC-%EB%B0%8F-%EC%BB%A8%EB%B2%A4%EC%85%98)
 
 ## 📅 데일리 스크럼
 
