@@ -33,13 +33,9 @@ launchScreen은 애플리케이션이 구동되기 위해 준비하는 시간을
 
 ## 📅 데일리 스크럼
 
-<details>
-<summary> 1주차 </summary>
-    
-- [10/25](https://github.com/boostcampwm-2021/iOS08-WithBuddy/wiki/Day-1-%EB%8D%B0%EC%9D%BC%EB%A6%AC-%EC%8A%A4%ED%81%AC%EB%9F%BC)
-- [10/26](https://github.com/boostcampwm-2021/iOS08-WithBuddy/wiki/Day-2-%EB%8D%B0%EC%9D%BC%EB%A6%AC-%EC%8A%A4%ED%81%AC%EB%9F%BC)
-- [10/27](https://github.com/boostcampwm-2021/iOS08-WithBuddy/wiki/Day-3-%EB%8D%B0%EC%9D%BC%EB%A6%AC-%EC%8A%A4%ED%81%AC%EB%9F%BC)
-- [10/28](https://github.com/boostcampwm-2021/iOS08-WithBuddy/wiki/Day-4-%EB%8D%B0%EC%9D%BC%EB%A6%AC-%EC%8A%A4%ED%81%AC%EB%9F%BC)
+|Mon|Tue|Wed|Thu|Fri|
+|:-:|:-:|:-:|:-:|:-:|
+|[10/25](https://github.com/boostcampwm-2021/iOS08-WithBuddy/wiki/Day-1-%EB%8D%B0%EC%9D%BC%EB%A6%AC-%EC%8A%A4%ED%81%AC%EB%9F%BC)|[10/26](https://github.com/boostcampwm-2021/iOS08-WithBuddy/wiki/Day-2-%EB%8D%B0%EC%9D%BC%EB%A6%AC-%EC%8A%A4%ED%81%AC%EB%9F%BC)|[10/27](https://github.com/boostcampwm-2021/iOS08-WithBuddy/wiki/Day-3-%EB%8D%B0%EC%9D%BC%EB%A6%AC-%EC%8A%A4%ED%81%AC%EB%9F%BC)|[10/28](https://github.com/boostcampwm-2021/iOS08-WithBuddy/wiki/Day-4-%EB%8D%B0%EC%9D%BC%EB%A6%AC-%EC%8A%A4%ED%81%AC%EB%9F%BC)||
 
 </details>
 
