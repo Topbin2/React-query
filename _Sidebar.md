@@ -11,6 +11,7 @@
 - [그라운드 룰](https://github.com/boostcampwm-2021/iOS08-WithBuddy/wiki/%F0%9F%A4%9D-%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C-%EB%A3%B0)
 - [git convention](https://github.com/boostcampwm-2021/iOS08-WithBuddy/wiki/%F0%9F%8D%80-git-convention)
 - [branch, merge 전략](https://github.com/boostcampwm-2021/iOS08-WithBuddy/wiki/%F0%9F%99%8C%F0%9F%8F%BB-branch,-merge-%EC%A0%84%EB%9E%B5)
+- [프로젝트 구조 및 계획](https://github.com/boostcampwm-2021/iOS08-WithBuddy/wiki/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B5%AC%EC%A1%B0-%EB%B0%8F-%EA%B3%84%ED%9A%8D)
 
 ## 📅 데일리 스크럼
 
