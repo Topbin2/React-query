@@ -15,7 +15,7 @@
 - [코드 스타일 및 컨벤션](https://github.com/boostcampwm-2021/iOS08-WithBuddy/wiki/%EC%BD%94%EB%93%9C-%EC%8A%A4%ED%83%80%EC%9D%BC-%EB%B0%8F-%EC%BB%A8%EB%B2%A4%EC%85%98)
 
 ## 🧑🏻‍🏫 발표자료 및 피드백
-- [1주차](https://github.com/boostcampwm-2021/iOS08-WithBuddy/wiki/1%EC%A3%BC%EC%B0%A8-%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C)
+- [1주차](https://github.com/boostcampwm-2021/iOS08-WithBuddy/wiki/1%EC%A3%BC%EC%B0%A8-%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C-%EB%B0%8F-%ED%94%BC%EB%93%9C%EB%B0%B1)
 
 ## 📅 데일리 스크럼
 
