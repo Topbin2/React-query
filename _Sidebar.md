@@ -17,20 +17,27 @@
 ## 🧑🏻‍🏫 발표자료 및 피드백
 - [1주차](https://github.com/boostcampwm-2021/iOS08-WithBuddy/wiki/1%EC%A3%BC%EC%B0%A8-%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C-%EB%B0%8F-%ED%94%BC%EB%93%9C%EB%B0%B1)
 
-## 📅 데일리 스크럼 및 회고
+## 📅 스프린트 회의록 및 데일리 스크럼
 
 <details>
 <summary> 1주차 </summary>
     
-- [10/25](https://github.com/boostcampwm-2021/iOS08-WithBuddy/wiki/Day-1-%EB%8D%B0%EC%9D%BC%EB%A6%AC-%EC%8A%A4%ED%81%AC%EB%9F%BC)
-- [10/26](https://github.com/boostcampwm-2021/iOS08-WithBuddy/wiki/Day-2-%EB%8D%B0%EC%9D%BC%EB%A6%AC-%EC%8A%A4%ED%81%AC%EB%9F%BC)
-- [10/27](https://github.com/boostcampwm-2021/iOS08-WithBuddy/wiki/Day-3-%EB%8D%B0%EC%9D%BC%EB%A6%AC-%EC%8A%A4%ED%81%AC%EB%9F%BC)
-- [10/28](https://github.com/boostcampwm-2021/iOS08-WithBuddy/wiki/Day-4-%EB%8D%B0%EC%9D%BC%EB%A6%AC-%EC%8A%A4%ED%81%AC%EB%9F%BC)
-- [10/29](https://github.com/boostcampwm-2021/iOS08-WithBuddy/wiki/Day-5-%EB%8D%B0%EC%9D%BC%EB%A6%AC-%EC%8A%A4%ED%81%AC%EB%9F%BC)
+- [21.10.25.Mon](https://github.com/boostcampwm-2021/iOS08-WithBuddy/wiki/Day-1-%EB%8D%B0%EC%9D%BC%EB%A6%AC-%EC%8A%A4%ED%81%AC%EB%9F%BC)
+- [21.10.26.Tue](https://github.com/boostcampwm-2021/iOS08-WithBuddy/wiki/Day-2-%EB%8D%B0%EC%9D%BC%EB%A6%AC-%EC%8A%A4%ED%81%AC%EB%9F%BC)
+- [21.10.27.Wed](https://github.com/boostcampwm-2021/iOS08-WithBuddy/wiki/Day-3-%EB%8D%B0%EC%9D%BC%EB%A6%AC-%EC%8A%A4%ED%81%AC%EB%9F%BC)
+- [21.10.28.Thu](https://github.com/boostcampwm-2021/iOS08-WithBuddy/wiki/Day-4-%EB%8D%B0%EC%9D%BC%EB%A6%AC-%EC%8A%A4%ED%81%AC%EB%9F%BC)
+- [21.10.29.Fri](https://github.com/boostcampwm-2021/iOS08-WithBuddy/wiki/Day-5-%EB%8D%B0%EC%9D%BC%EB%A6%AC-%EC%8A%A4%ED%81%AC%EB%9F%BC)
 
 </details>
 
-## 🥂 회고
+<details>
+<summary> 2주차 </summary>
+    
+- [2주차 스프린트 회의록](https://github.com/boostcampwm-2021/iOS08-WithBuddy/wiki/2%EC%A3%BC%EC%B0%A8-%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B8-%ED%9A%8C%EC%9D%98%EB%A1%9D)
+
+</details>
+
+## 🥂 회고록
 - [1주차](https://github.com/boostcampwm-2021/iOS08-WithBuddy/wiki/1%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0%EB%A1%9D)
 
 ## 📑 템플릿 모음
