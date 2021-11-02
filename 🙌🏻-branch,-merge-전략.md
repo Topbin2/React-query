@@ -18,9 +18,33 @@
 
  ## merge
  
-- develop에서 feature로 fetch rebase
-- 나머지는 merge로
-- 본인 PR 은 최소 2명에게 리뷰받은 후 본인이 merge
+- fetch & rebase : develop에서 feature로
+
+    ```
+    // origin의 develop에서 변경 사항을 가져온다.
+    > git switch develop
+    > git fetch origin develop
+    > git rebase origin/develop
+    
+    // 작업할 브랜치를 생성한다.
+    > git switch -c feature/기능A
+    ```
+    
+- commit & merge : feature에서 develop으로
+
+    ```
+    // 현재 작업중인 feature/기능A 브랜치일 때
+    // push 전 origin의 develop에서 변경 사항을 가져온다.
+    > git fetch origin develop
+    > git rebase origin/develop
+    
+    // conflict가 난다면 해결하고 push한다.
+    > git push origin feat/기능A
+    ```
+    
+    <img src=https://i.imgur.com/tRX5KxR.png width=300>
+    
+- 본인 PR 은 최소 2명에게 리뷰받은 후 본인이 merge 한다.
 
 <br/>
 
