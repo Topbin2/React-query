@@ -29,6 +29,8 @@
     // 작업할 브랜치를 생성한다.
     > git switch -c feature/기능A
     ```
+
+    원격 저장소의 브랜치를 가져오는 방법 : <https://yztech.tistory.com/32>
     
 - commit & merge : feature에서 develop으로
 
