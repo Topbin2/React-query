@@ -35,11 +35,11 @@ launchScreen은 애플리케이션이 구동되기 위해 준비하는 시간을
 
 <br/>
 
-## 🧑🏻‍🏫 발표자료 및 피드백
+## 🧑🏻‍🏫 발표자료 및 배포링크
 
-|1주차|
-|:-:|
-|[발표자료 및 피드백](https://github.com/boostcampwm-2021/iOS08-WithBuddy/wiki/1%EC%A3%BC%EC%B0%A8-%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C-%EB%B0%8F-%ED%94%BC%EB%93%9C%EB%B0%B1)|
+|1주차|2주차|
+|:-:|:-:|
+|[발표자료 및 피드백](https://github.com/boostcampwm-2021/iOS08-WithBuddy/wiki/1%EC%A3%BC%EC%B0%A8-%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C-%EB%B0%8F-%ED%94%BC%EB%93%9C%EB%B0%B1)|[데모영상](https://youtu.be/AAWnkYiDiN8) / [배포링크](https://inuinseoul.github.io/WithBuddyDeploymentPage/home.html)|
 
 <br/>
 
