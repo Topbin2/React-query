@@ -60,6 +60,12 @@ launchScreen은 애플리케이션이 구동되기 위해 준비하는 시간을
 
 <br/>
 
+## 🎯 개발
+
+- [트러블 슈팅](https://github.com/boostcampwm-2021/iOS08-WithBuddy/wiki/%ED%8A%B8%EB%9F%AC%EB%B8%94-%EC%8A%88%ED%8C%85)
+
+<br/>
+
 ## 📑 템플릿 모음
 
 - [데일리 스크럼 템플릿](https://github.com/boostcampwm-2021/iOS08-WithBuddy/wiki/%EB%8D%B0%EC%9D%BC%EB%A6%AC-%EC%8A%A4%ED%81%AC%EB%9F%BC-%ED%85%9C%ED%94%8C%EB%A6%BF)
