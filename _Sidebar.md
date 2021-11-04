@@ -39,7 +39,12 @@
 </details>
 
 ## 🥂 회고록
+
 - [1주차](https://github.com/boostcampwm-2021/iOS08-WithBuddy/wiki/1%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0%EB%A1%9D)
+
+## 🎯 개발
+
+- [트러블 슈팅](https://github.com/boostcampwm-2021/iOS08-WithBuddy/wiki/%ED%8A%B8%EB%9F%AC%EB%B8%94-%EC%8A%88%ED%8C%85)
 
 ## 📑 템플릿 모음
 
