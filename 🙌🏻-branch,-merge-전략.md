@@ -10,7 +10,7 @@
     - feature : 새로운 기능을 개발하는 브랜치 [feature/기능A]
     - develop : 개발한 기능들을 합치는 브랜치 [develop]
     - release : 이번 데모를 준비하는 브랜치 [release/0.1]
-    - main : 모든 준비가 완료된 데모를 올리는 브랜치 [main/0.1]
+    - main : 모든 준비가 완료된 데모를 올리는 브랜치
 
  <img src="https://i.imgur.com/o1xcUmX.png" width=550>
 
@@ -47,6 +47,7 @@
     <img src=https://i.imgur.com/tRX5KxR.png width=300>
     
 - 본인 PR 은 최소 2명에게 리뷰받은 후 본인이 merge 한다.
+- merge 후 해당 브랜치를 삭제한다.
 
 <br/>
 
