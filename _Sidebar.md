@@ -39,9 +39,11 @@
 - [21.11.04](https://github.com/boostcampwm-2021/iOS08-WithBuddy/wiki/Day-9-%EB%8D%B0%EC%9D%BC%EB%A6%AC-%EC%8A%A4%ED%81%AC%EB%9F%BC)
 </details>
 
-## 🥂 회고록
+## 🥂 피어세션 및 회고록
 
-- [1주차](https://github.com/boostcampwm-2021/iOS08-WithBuddy/wiki/1%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0%EB%A1%9D)
+|1주차|2주차|
+|:-:|:-:|
+|[회고록](https://github.com/boostcampwm-2021/iOS08-WithBuddy/wiki/1%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0%EB%A1%9D)|[회고록]() / [피어세션](https://github.com/boostcampwm-2021/iOS08-WithBuddy/wiki/2%EC%A3%BC%EC%B0%A8-%ED%94%BC%EC%96%B4%EC%84%B8%EC%85%98)|
 
 ## 🎯 개발
 
