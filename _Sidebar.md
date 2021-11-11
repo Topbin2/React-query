@@ -46,7 +46,7 @@
 - [3주차 스프린트 회의록](https://github.com/boostcampwm-2021/iOS08-WithBuddy/wiki/3%EC%A3%BC%EC%B0%A8-%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B8-%ED%9A%8C%EC%9D%98%EB%A1%9D)
 - [21.11.09.Tue](https://github.com/boostcampwm-2021/iOS08-WithBuddy/wiki/Day-12-%EB%8D%B0%EC%9D%BC%EB%A6%AC-%EC%8A%A4%ED%81%AC%EB%9F%BC)
 - [21.11.10](https://github.com/boostcampwm-2021/iOS08-WithBuddy/wiki/Day-13-%EB%8D%B0%EC%9D%BC%EB%A6%AC-%EC%8A%A4%ED%81%AC%EB%9F%BC)
-
+- [21.11.11](https://github.com/boostcampwm-2021/iOS08-WithBuddy/wiki/Day-14-%EB%8D%B0%EC%9D%BC%EB%A6%AC-%EC%8A%A4%ED%81%AC%EB%9F%BC)
 </details>
 
 ## 🥂 피어세션 및 회고록
