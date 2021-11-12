@@ -37,9 +37,9 @@ launchScreen은 애플리케이션이 구동되기 위해 준비하는 시간을
 
 ## 🧑🏻‍🏫 발표자료 및 배포링크
 
-|1주차|2주차|
-|:-:|:-:|
-|[발표자료 및 피드백](https://github.com/boostcampwm-2021/iOS08-WithBuddy/wiki/1%EC%A3%BC%EC%B0%A8-%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C-%EB%B0%8F-%ED%94%BC%EB%93%9C%EB%B0%B1)|[발표자료 및 피드백](https://github.com/boostcampwm-2021/iOS08-WithBuddy/wiki/2주차-발표자료-및-피드백) <br/> [데모영상](https://youtu.be/AAWnkYiDiN8) / [배포링크](https://inuinseoul.github.io/WithBuddyDeploymentPage/home.html)|
+|1주차|2주차|3주차|
+|:-:|:-:|:-:|
+|[발표자료 및 피드백](https://github.com/boostcampwm-2021/iOS08-WithBuddy/wiki/1%EC%A3%BC%EC%B0%A8-%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C-%EB%B0%8F-%ED%94%BC%EB%93%9C%EB%B0%B1)|[발표자료 및 피드백](https://github.com/boostcampwm-2021/iOS08-WithBuddy/wiki/2주차-발표자료-및-피드백) <br/> [데모영상](https://youtu.be/AAWnkYiDiN8) / [배포링크](https://inuinseoul.github.io/WithBuddyDeploymentPage/home.html)|[발표자료 및 피드백](https://github.com/boostcampwm-2021/iOS08-WithBuddy/wiki/3%EC%A3%BC%EC%B0%A8-%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C-%EB%B0%8F-%ED%94%BC%EB%93%9C%EB%B0%B1) <br/> [데모영상](https://www.youtube.com/watch?v=QEp-yiN7fE0) / [배포링크](https://inuinseoul.github.io/WithBuddyDeploymentPage/home.html)|
 
 <br/>
 
@@ -57,7 +57,7 @@ launchScreen은 애플리케이션이 구동되기 위해 준비하는 시간을
 
 |1주차|2주차|3주차|
 |:-:|:-:|:-:|
-|[회고록](https://github.com/boostcampwm-2021/iOS08-WithBuddy/wiki/1%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0%EB%A1%9D)|[회고록](https://github.com/boostcampwm-2021/iOS08-WithBuddy/wiki/2%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0%EB%A1%9D) / [피어세션](https://github.com/boostcampwm-2021/iOS08-WithBuddy/wiki/2%EC%A3%BC%EC%B0%A8-%ED%94%BC%EC%96%B4%EC%84%B8%EC%85%98)|[피어세션](https://github.com/boostcampwm-2021/iOS08-WithBuddy/wiki/3%EC%A3%BC%EC%B0%A8-%ED%94%BC%EC%96%B4%EC%84%B8%EC%85%98)|
+|[회고록](https://github.com/boostcampwm-2021/iOS08-WithBuddy/wiki/1%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0%EB%A1%9D)|[피어세션](https://github.com/boostcampwm-2021/iOS08-WithBuddy/wiki/2%EC%A3%BC%EC%B0%A8-%ED%94%BC%EC%96%B4%EC%84%B8%EC%85%98) / [회고록](https://github.com/boostcampwm-2021/iOS08-WithBuddy/wiki/2%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0%EB%A1%9D)|[피어세션](https://github.com/boostcampwm-2021/iOS08-WithBuddy/wiki/3%EC%A3%BC%EC%B0%A8-%ED%94%BC%EC%96%B4%EC%84%B8%EC%85%98) / [회고록](https://github.com/boostcampwm-2021/iOS08-WithBuddy/wiki/3%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0%EB%A1%9D)|
 
 <br/>
 
