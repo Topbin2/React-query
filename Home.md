@@ -55,9 +55,9 @@ launchScreen은 애플리케이션이 구동되기 위해 준비하는 시간을
 
 ## 🥂 피어세션 및 회고록
 
-|1주차|2주차|
-|:-:|:-:|
-|[회고록](https://github.com/boostcampwm-2021/iOS08-WithBuddy/wiki/1%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0%EB%A1%9D)|[회고록](https://github.com/boostcampwm-2021/iOS08-WithBuddy/wiki/2%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0%EB%A1%9D) / [피어세션](https://github.com/boostcampwm-2021/iOS08-WithBuddy/wiki/2%EC%A3%BC%EC%B0%A8-%ED%94%BC%EC%96%B4%EC%84%B8%EC%85%98)|
+|1주차|2주차|3주차|
+|:-:|:-:|:-:|
+|[회고록](https://github.com/boostcampwm-2021/iOS08-WithBuddy/wiki/1%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0%EB%A1%9D)|[회고록](https://github.com/boostcampwm-2021/iOS08-WithBuddy/wiki/2%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0%EB%A1%9D) / [피어세션](https://github.com/boostcampwm-2021/iOS08-WithBuddy/wiki/2%EC%A3%BC%EC%B0%A8-%ED%94%BC%EC%96%B4%EC%84%B8%EC%85%98)|[피어세션](https://github.com/boostcampwm-2021/iOS08-WithBuddy/wiki/3%EC%A3%BC%EC%B0%A8-%ED%94%BC%EC%96%B4%EC%84%B8%EC%85%98)|
 
 <br/>
 
