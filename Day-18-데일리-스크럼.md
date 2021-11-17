@@ -53,4 +53,4 @@
 
 ## 💡 공유할 이슈
 
-- 모임 검색때 쓸 uuid를 기존 GatheringEntity에 추가하려는ㄷ
+- 모임 검색때 쓸 uuid를 기존 GatheringEntity에 추가하려고함
