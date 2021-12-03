@@ -90,6 +90,7 @@
 - [3주차 회고록](https://github.com/boostcampwm-2021/iOS08-WithBuddy/wiki/3%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0%EB%A1%9D)
 - [4주차 회고록](https://github.com/boostcampwm-2021/iOS08-WithBuddy/wiki/4%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0%EB%A1%9D)
 - [5주차 회고록](https://github.com/boostcampwm-2021/iOS08-WithBuddy/wiki/5%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0%EB%A1%9D)
+- [6주차 회고록](https://github.com/boostcampwm-2021/iOS08-WithBuddy/wiki/6%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0%EB%A1%9D)
 
 ## 🎯 개발
 
