@@ -95,6 +95,7 @@
 ## 🎯 개발
 
 - [트러블 슈팅](https://github.com/boostcampwm-2021/iOS08-WithBuddy/wiki/%ED%8A%B8%EB%9F%AC%EB%B8%94-%EC%8A%88%ED%8C%85)
+- [배포후 개선할 사항](https://github.com/boostcampwm-2021/iOS08-WithBuddy/wiki/%EB%B0%B0%ED%8F%AC-%ED%9B%84-%EA%B0%9C%EC%84%A0%ED%95%A0-%EC%82%AC%ED%95%AD)
 
 ## 📑 템플릿 모음
 
