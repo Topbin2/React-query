@@ -13,7 +13,7 @@ async function fetchPosts() {
 export function Posts() {
   const [currentPage, setCurrentPage] = useState(0);
   const [selectedPost, setSelectedPost] = useState(null);
-  console.log(hi);
+
   // replace with useQuery
   const data = [];
 
