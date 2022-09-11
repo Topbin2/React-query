@@ -9,22 +9,22 @@ import {
   setStoredUser,
 } from '../../../user-storage';
 
-// async function getUser(user: User | null): Promise<User | null> {
-//   if (!user) return null;
-//   const { data }: AxiosResponse<{ user: User }> = await axiosInstance.get(
-//     `/user/${user.id}`,
-//     {
-//       headers: getJWTHeader(user),
-//     },
-//   );
-//   return data.user;
-// }
-
-interface UseUser {
-  user: User | null;
-  updateUser: (user: User) => void;
-  clearUser: () => void;
+async function getUser(user: User | null): Promise<User | null> {
+  if (!user) return null;
+  const { data }: AxiosResponse<{ user: User }> = await axiosInstance.get(
+    `/user/${user.id}`,
+    {
+      headers: getJWTHeader(user),
+    },
+  );
+  return data.user;
 }
+
+// interface UseUser {
+//   user: User | null;
+//   updateUser: (user: User) => void;
+//   clearUser: () => void;
+// }
 
 export function useUser(): UseUser {
   // TODO: call useQuery to update user data from server
